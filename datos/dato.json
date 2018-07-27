@@ -1,0 +1,127 @@
+[{
+		"cledo": "Bufonidae",
+		"grupo": "Bufonidae",
+		"genero": "Nannophryne",
+		"especie": "Nannophryne variegata",
+		"nombre_vulgar": "Sapito de tres rayas",
+		"endemismo": false,
+		"estado_conservacion": "Preocupación Menor"
+	}, {
+		"cledo": "Bufonidae",
+		"grupo": "Bufonidae",
+		"genero": "Rhinella",
+		"especie": "Rhinella arunco",
+		"nombre_vulgar": "Sapo de Rulo",
+		"endemismo": false,
+		"estado_consevacion": "Preocupación Menor"
+	},
+	{
+		"cledo": "Bufonidae",
+		"grupo": "Bufonidae",
+		"genero": "Rhinella",
+		"especie": "Rhinella atacamensis",
+		"nombre_vulgar": "Sapo de Atacama",
+		"endemismo": false,
+		"estado_consevacion": "Preocupación Menor"
+	},
+	{
+		"cledo": "Bufonidae",
+		"grupo": "Bufonidae",
+		"genero": "Rhinella",
+		"especie": "Rhinella rubropunctata",
+		"nombre_vulgar": "Sapo de manchas rojas",
+		"endemismo": false,
+		"estado_consevacion": "Vulnerable"
+	},
+	{
+		"cledo": "Bufonidae",
+		"grupo": "Bufonidae",
+		"genero": "Rhinella",
+		"especie": "Rhinella spinulosa",
+		"nombre_vulgar": "Sapo de rulo",
+		"endemismo": false,
+		"estado_consevacion": "Preocupación Menor"
+	},
+	{
+		"cledo": "Calyptocephalellidae",
+		"grupo": "Calyptocephalellidae",
+		"genero": "Calyptocephalella",
+		"especie": "Calyptocephalella gayi",
+		"nombre_vulgar": "Rana chilena",
+		"endemismo": "Endémica",
+		"estado_consevacion": "Vulnerable"
+	},
+	{
+		"cledo": "Calyptocephalellidae",
+		"grupo": "Calyptocephalellidae",
+		"genero": "Telmatobufo",
+		"especie": "Telmatobufo australis",
+		"nombre_vulgar": false,
+		"endemismo": "Endémica",
+		"estado_consevacion": "Vulnerable"
+
+	},
+	{
+		"cledo": "Calyptocephalellidae",
+		"grupo": "Calyptocephalellidae",
+		"genero": "Telmatobufo",
+		"especie": "Telmatobufo bullocki",
+		"nombre_vulgar": false,
+		"endemismo": "Endémica",
+		"estado_consevacion": "En Peligro Crítico"
+	},
+	{
+		"cledo": "Calyptocephalellidae",
+		"grupo": "Calyptocephalellidae",
+		"genero": "Telmatobufo",
+		"especie": "Telmatobufo venustus",
+		"nombre_vulgar": false,
+		"endemismo": "Endémica",
+		"estado_consevacion": "En Peligro"
+	},
+	{
+		"cledo": "Calyptocephalellidae",
+		"grupo": "Batrachyla",
+		"genero": "Atelognathus",
+		"especie": "Atelognathus ceii",
+		"nombre_vulgar": false,
+		"endemismo": "Endémica",
+		"estado_consevacion": "Datos Insuficientos"
+	},
+	{
+		"cledo": "Calyptocephalellidae",
+		"grupo": "Batrachyla",
+		"genero": "Atelognathus",
+		"especie": "Atelognathus jeinimenensis",
+		"nombre_vulgar": false,
+		"endemismo": false,
+		"estado_consevacion": "Próximo a la Amenaza"
+	},
+	{
+		"cledo": "Calyptocephalellidae",
+		"grupo": "Batrachyla",
+		"genero": "Chaltenobatrachus",
+		"especie": "Chaltenobatrachus grandisonae",
+		"nombre_vulgar": false,
+		"endemismo": false,
+		"estado_consevacion": "Datos Insuficientos"
+	},
+	{
+		"cledo": "Calyptocephalellidae",
+		"grupo": "Batrachyla",
+		"genero": "Batrachyla",
+		"especie": "Batrachyla antartandica",
+		"nombre_vulgar": false,
+		"endemismo": false,
+		"estado_consevacion": "Preocupación Menor"
+	},
+	{
+		"cledo": "Calyptocephalellidae",
+		"grupo": "Batrachyla",
+		"genero": "Batrachyla",
+		"especie": "Batrachyla leptopus",
+		"nombre_vulgar": false,
+		"endemismo": false,
+		"estado_consevacion": "Preocupación Menor"
+	}
+]
