@@ -1,0 +1,58 @@
+cledo,grupo,genero,especie,nombre_vulgar,endemismo,estado_consevacion
+Bufonidae,Bufonidae,Nannophryne,Nannophryne variegata,Sapito de tres rayas,,Preocupación Menor
+Bufonidae,Bufonidae,Rhinella,Rhinella arunco,Sapo de Rulo,,Preocupación Menor
+Bufonidae,Bufonidae,Rhinella,Rhinella atacamensis,Sapo de Atacama,,Preocupación Menor
+Bufonidae,Bufonidae,Rhinella,Rhinella rubropunctata,Sapo de manchas rojas,,Vulnerable
+Bufonidae,Bufonidae,Rhinella,Rhinella spinulosa,Sapo de rulo,,Preocupación Menor
+Calyptocephalellidae,Calyptocephalellidae,Calyptocephalella,Calyptocephalella gayi,Rana chilena,Endémica,Vulnerable
+Calyptocephalellidae,Calyptocephalellidae,Telmatobufo,Telmatobufo australis,,Endémica,Vulnerable
+Calyptocephalellidae,Calyptocephalellidae,Telmatobufo,Telmatobufo bullocki,,Endémica,En Peligro Crítico
+Calyptocephalellidae,Calyptocephalellidae,Telmatobufo,Telmatobufo venustus,,Endémica,En Peligro
+Ceratophryidae,Batrachyla,Atelognathus,Atelognathus ceii,,Endémica,Datos Insuficientos
+Ceratophryidae,Batrachyla,Atelognathus,Atelognathus jeinimenensis,,,Próximo a la Amenaza
+Ceratophryidae,Batrachyla,Chaltenobatrachus,Chaltenobatrachus grandisonae,,,Datos Insuficientos
+Ceratophryidae,Batrachyla,Batrachyla,Batrachyla antartandica,,,Preocupación Menor
+Ceratophryidae,Batrachyla,Batrachyla,Batrachyla leptopus,,,Preocupación Menor
+Ceratophryidae,Batrachyla,Batrachyla,Batrachyla nibaldoi,,Endémica,Datos Insuficientos
+Ceratophryidae,Batrachyla,Batrachyla,Batrachyla taeniata,Sapito de antifaz,,Preocupación Menor
+Ceratophryidae,Telmatobiinae,Telmatobius,Telmatobius chusmisensis,,Endémica,Datos Insuficientos
+Ceratophryidae,Telmatobiinae,Telmatobius,Telmatobius dankoi,,Endémica,Datos Insuficientos
+Ceratophryidae,Telmatobiinae,Telmatobius,Telmatobius fronterensis,,Endémica,Datos Insuficientos
+Ceratophryidae,Telmatobiinae,Telmatobius,Telmatobius halli,,Endémica,Datos Insuficientos
+Ceratophryidae,Telmatobiinae,Telmatobius,Telmatobius marmoratus,,,Vulnerable
+Ceratophryidae,Telmatobiinae,Telmatobius,Telmatobius pefauri,,Endémica,En Peligro Crítico
+Ceratophryidae,Telmatobiinae,Telmatobius,Telmatobius peruvianus,,,Vulnerable
+Ceratophryidae,Telmatobiinae,Telmatobius,Telmatobius philippii,,Endémica,Datos Insuficientos
+Ceratophryidae,Telmatobiinae,Telmatobius,Telmatobius vilamensis,,Endémica,Datos Insuficientos
+Ceratophryidae,Telmatobiinae,Telmatobius,Telmatobius zapahuirensis,,Endémica,En Peligro Crítico
+Cycloramphidae,Alsodinae,Alsodes,Alsodes australis,,,Datos Insuficientos
+Cycloramphidae,Alsodinae,Alsodes,Alsodes barrioi,,Endémica,Vulnerable
+Cycloramphidae,Alsodinae,Alsodes,Alsodes hugoi,,Endémica,Datos Insuficientos
+Cycloramphidae,Alsodinae,Alsodes,Alsodes igneus,,Endémica,Datos Insuficientos
+Cycloramphidae,Alsodinae,Alsodes,Alsodes kaweshkari,,Endémica,Datos Insuficientos
+Cycloramphidae,Alsodinae,Alsodes,Alsodes laevis,,Endémica,Datos Insuficientos
+Cycloramphidae,Alsodinae,Alsodes,Alsodes montanus,,,En Peligro Crítico
+Cycloramphidae,Alsodinae,Alsodes,Alsodes monticola,,,Datos Insuficientos
+Cycloramphidae,Alsodinae,Alsodes,Alsodes nodosus,Sapo arriero,,Próximo a la Amenaza
+Cycloramphidae,Alsodinae,Alsodes,Alsodes tumultuosus,,Endémica,En Peligro Crítico
+Cycloramphidae,Alsodinae,Alsodes,Alsodes valdiviensis,,Endémica,Datos Insuficientos
+Cycloramphidae,Alsodinae,Alsodes,Alsodes vanzolinii,,Endémica,En Peligro Crítico
+Cycloramphidae,Alsodinae,Alsodes,Alsodes verrucosus,,,Datos Insuficientos
+Cycloramphidae,Alsodinae,Alsodes,Alsodes vittatus,,Endémica,Datos Insuficientos
+Cycloramphidae,Alsodinae,Eupsophus,Eupsophus calcaratus,,,Preocupación Menor
+Cycloramphidae,Alsodinae,Eupsophus,Eupsophus contulmoensis,,Endémica,En Peligro
+Cycloramphidae,Alsodinae,Eupsophus,Eupsophus emiliopugini,,,Preocupación Menor
+Cycloramphidae,Alsodinae,Eupsophus,Eupsophus insularis,,Endémica,En Peligro Crítico
+Cycloramphidae,Alsodinae,Eupsophus,Eupsophus migueli,Sapo Miguel ,Endémica,En Peligro
+Cycloramphidae,Alsodinae,Eupsophus,Eupsophus nahuelbutensis,,Endémica,En Peligro
+Cycloramphidae,Alsodinae,Eupsophus,Eupsophus queulensis,,Endémica,Vulnerable
+Cycloramphidae,Alsodinae,Eupsophus,Eupsophus roseus,,Endémica,Próximo a la Amenaza
+Cycloramphidae,Alsodinae,Eupsophus,Eupsophus septentrionalis,,Endémica,Datos Insuficientos
+Cycloramphidae,Alsodinae,Eupsophus,Eupsophus vertebralis,,,Próximo a la Amenaza
+Cycloramphidae,Alsodinae,Hylorina,Hylorina sylvatica,Sapito selvático,,Preocupación Menor
+Cycloramphidae,Alsodinae,Insuetophrynus,Insuetophrynus acarpicus,Sapo de Mehuín ,Endémica,En Peligro Crítico
+Cycloramphidae,Cycloramphinae,Rhinoderma,Rhinoderma darwinii,Ranita de Darwin,,Vulnerable
+Cycloramphidae,Cycloramphinae,Rhinoderma,Rhinoderma rufum,Ranita Chilena de Darwin,Endémica,En Peligro Crítico
+Leiuperidae,Leiuperidae,Pleurodema,Pleurodema bufoninum,Sapo de cuatro ojos grandes,,Preocupación Menor
+Leiuperidae,Leiuperidae,Pleurodema,Pleurodema marmoratum,,,Preocupación Menor
+Leiuperidae,Leiuperidae,Pleurodema,Pleurodema thaul,Sapito de cuatro ojos,,Preocupación Menor
