@@ -10,9 +10,11 @@
 <script src="https://cdnjs.cloudflare.com/ajax/libs/p5.js/0.6.0/p5.min.js"></script>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/p5.js/0.6.0/addons/p5.dom.min.js"></script>
 <script>
-//function preload(){
-    //var data=loadTable('https://github.com/fawlessvictory/Clase-27-07-/blob/gh-pages/datos/datos.csv','csv','header');
+    var data;
     
+function preload(){
+    var data=loadTable('https://raw.githubusercontent.com/fawlessvictory/Clase-27-07-/gh-pages/datos/datos.csv','csv','header');
+} 
     
 function setup(){
 //var data=loadTable('https://github.com/fawlessvictory/Clase-27-07-/blob/gh-pages/datos/datos.csv','csv','header');   
