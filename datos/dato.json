@@ -48,7 +48,7 @@
 		"genero": "Calyptocephalella",
 		"especie": "Calyptocephalella gayi",
 		"nombre_vulgar": "Rana chilena",
-		"endemismo": "Endémica",
+		"endemismo": true,
 		"estado_consevacion": "Vulnerable"
 	},
 	{
@@ -57,7 +57,7 @@
 		"genero": "Telmatobufo",
 		"especie": "Telmatobufo australis",
 		"nombre_vulgar": false,
-		"endemismo": "Endémica",
+		"endemismo": true,
 		"estado_consevacion": "Vulnerable"
 
 	},
@@ -67,7 +67,7 @@
 		"genero": "Telmatobufo",
 		"especie": "Telmatobufo bullocki",
 		"nombre_vulgar": false,
-		"endemismo": "Endémica",
+		"endemismo": true,
 		"estado_consevacion": "En Peligro Crítico"
 	},
 	{
@@ -76,7 +76,7 @@
 		"genero": "Telmatobufo",
 		"especie": "Telmatobufo venustus",
 		"nombre_vulgar": false,
-		"endemismo": "Endémica",
+		"endemismo": true,
 		"estado_consevacion": "En Peligro"
 	},
 	{
@@ -85,7 +85,7 @@
 		"genero": "Atelognathus",
 		"especie": "Atelognathus ceii",
 		"nombre_vulgar": false,
-		"endemismo": "Endémica",
+		"endemismo": true,
 		"estado_consevacion": "Datos Insuficientos"
 	},
 	{
@@ -123,5 +123,77 @@
 		"nombre_vulgar": false,
 		"endemismo": false,
 		"estado_consevacion": "Preocupación Menor"
+	},
+	{
+		"cledo": "Calyptocephalellidae",
+		"grupo": "Batrachyla",
+		"genero": "Batrachyla",
+		"especie": "Batrachyla nibaldoi",
+		"nombre_vulgar": false,
+		"endemismo": true,
+		"estado_consevacion": "Datos Insuficientos"
+	},
+	{
+		"cledo": "Calyptocephalellidae",
+		"grupo": "Batrachyla",
+		"genero": "Batrachyla",
+		"especie": "Batrachyla taeniata",
+		"nombre_vulgar": "Sapito de antifaz",
+		"endemismo": true,
+		"estado_consevacion": "Preocupación Menor"
+	},
+	{
+		"cledo": "Calyptocephalellidae",
+		"grupo": "Telmatobiinae",
+		"genero": "Telmatobius",
+		"especie": "Telmatobius chusmisensis",
+		"nombre_vulgar": false,
+		"endemismo": true,
+		"estado_consevacion": "Datos Insuficientos"
+	},
+	{
+		"cledo": "Calyptocephalellidae",
+		"grupo": "Telmatobiinae",
+		"genero": "Telmatobius",
+		"especie": "Telmatobius dankoi",
+		"nombre_vulgar": false,
+		"endemismo": true,
+		"estado_consevacion": "Datos Insuficientos"
+	},
+	{
+		"cledo": "Calyptocephalellidae",
+		"grupo": "Telmatobiinae",
+		"genero": "Telmatobius",
+		"especie": "Telmatobius fronterensis",
+		"nombre_vulgar": false,
+		"endemismo": true,
+		"estado_consevacion": "Datos Insuficientos"
+	},
+	{
+		"cledo": "Calyptocephalellidae",
+		"grupo": "Telmatobiinae",
+		"genero": "Telmatobius",
+		"especie": "Telmatobius halli",
+		"nombre_vulgar": false,
+		"endemismo": true,
+		"estado_consevacion": "Datos Insuficientos"
+	},
+	{
+		"cledo": "Calyptocephalellidae",
+		"grupo": "Telmatobiinae",
+		"genero": "Telmatobius",
+		"especie": "Telmatobius marmoratus",
+		"nombre_vulgar": false,
+		"endemismo": false,
+		"estado_consevacion": "Vulnerable"
+	},
+	{
+		"cledo": "Calyptocephalellidae",
+		"grupo": "Telmatobiinae",
+		"genero": "Telmatobius",
+		"especie": "Telmatobius pefauri",
+		"nombre_vulgar": false,
+		"endemismo": true,
+		"estado_consevacion": "En Peligro Crítico"
 	}
 ]
