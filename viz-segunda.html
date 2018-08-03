@@ -24,30 +24,34 @@ function setup(){
     
 function draw(){
   background(224,254,149);
-    fill(255);
+    fill(0,81,5);
     textSize(20);
     text('Endémicos',30,30);
-    if(sapito){
+   
         var eso=1;
         var cont=0;
-        for(a=0;a<28;a++){
+        var ende=0;
+        for(a=0;a<58;a++){
             if(sapito[a].nombre_vulgar){
                 eso++;
                 cont++;
-            if(sapito[a].endemismo){
-                textSize(50);
-               fill(255)
-            }else{
-                textSize(20);
-               fill(0);
-            }
-               
-            text(sapito[a].nombre_vulgar,(height/4), ((height/4)*eso)/3); 
+                if(sapito[a].endemismo){
+                    ende++;
+                    textSize(25);
+                    fill(0,81,5);
+                    text(sapito[a].nombre_vulgar,(height/4)*5, ((height/4)*eso)/5);
+                }else{
+                    textSize(15);
+                    fill(0);
+                    text(sapito[a].nombre_vulgar,(height/4)*5, ((height/4)*eso)/5);
+                }  
             }
         }
-        text (cont,300, 300 );
-    }
-  } 
+        ellipse(((windowWidth/6)*1),190,10,10);
+        text (ende,300, 300 );
+    
+  }
+    
     
 function windowResized() {
   resizeCanvas(windowWidth, 500);
