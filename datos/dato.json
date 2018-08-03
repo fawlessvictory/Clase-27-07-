@@ -195,5 +195,212 @@
 		"nombre_vulgar": false,
 		"endemismo": true,
 		"estado_consevacion": "En Peligro Crítico"
+	},
+	{
+		"cledo": "Calyptocephalellidae",
+		"grupo": "Telmatobiinae",
+		"genero": "Telmatobius",
+		"especie": "Telmatobius peruvianus",
+		"nombre_vulgar": false,
+		"endemismo": false,
+		"estado_consevacion": "Vulnerable"
+	},
+	{
+		"cledo": "Calyptocephalellidae",
+		"grupo": "Telmatobiinae",
+		"genero": "Telmatobius",
+		"especie": "Telmatobius philippii",
+		"nombre_vulgar": false,
+		"endemismo": true,
+		"estado_consevacion": "Datos Insuficientos"
+	},
+	{
+		"cledo": "Calyptocephalellidae",
+		"grupo": "Telmatobiinae",
+		"genero": "Telmatobius",
+		"especie": "Telmatobius vilamensis",
+		"nombre_vulgar": false,
+		"endemismo": true,
+		"estado_consevacion": "Datos Insuficientos"
+	},
+	{
+		"cledo": "Calyptocephalellidae",
+		"grupo": "Telmatobiinae",
+		"genero": "Telmatobius",
+		"especie": "Telmatobius zapahuirensis",
+		"nombre_vulgar": false,
+		"endemismo": true,
+		"estado_consevacion": "En Peligro Crítico"
+	},
+	{
+		"cledo": "Cycloramphidae",
+		"grupo": "Alsodinae",
+		"genero": "Alsodes",
+		"especie": "Alsodes australis",
+		"nombre_vulgar": false,
+		"endemismo": false,
+		"estado_consevacion": "Datos Insuficientes"
+	},
+	{
+		"cledo": "Cycloramphidae",
+		"grupo": "Alsodinae",
+		"genero": "Alsodes",
+		"especie": "Alsodes barrioi",
+		"nombre_vulgar": false,
+		"endemismo": true,
+		"estado_consevacion": "Vulnerable"
+	},
+	{
+		"cledo": "Cycloramphidae",
+		"grupo": "Alsodinae",
+		"genero": "Alsodes",
+		"especie": "Alsodes hugoi",
+		"nombre_vulgar": false,
+		"endemismo": true,
+		"estado_consevacion": "Datos Insuficientos"
+	},
+	{
+		"cledo": "Cycloramphidae",
+		"grupo": "Alsodinae",
+		"genero": "Alsodes",
+		"especie": "Alsodes igneus",
+		"nombre_vulgar": false,
+		"endemismo": true,
+		"estado_consevacion": "Datos Insuficientos"
+	},
+	{
+		"cledo": "Cycloramphidae",
+		"grupo": "Alsodinae",
+		"genero": "Alsodes",
+		"especie": "Alsodes kaweshkari",
+		"nombre_vulgar": false,
+		"endemismo": true,
+		"estado_consevacion": "Datos Insuficientos"
+	},
+	{
+		"cledo": "Cycloramphidae",
+		"grupo": "Alsodinae",
+		"genero": "Alsodes",
+		"especie": "Alsodes laevis",
+		"nombre_vulgar": false,
+		"endemismo": true,
+		"estado_consevacion": "Datos Insuficientos"
+	},
+	{
+		"cledo": "Cycloramphidae",
+		"grupo": "Alsodinae",
+		"genero": "Alsodes",
+		"especie": "Alsodes montanus",
+		"nombre_vulgar": false,
+		"endemismo": true,
+		"estado_consevacion": "En Peligro Crítico"
+	},
+	{
+		"cledo": "Cycloramphidae",
+		"grupo": "Alsodinae",
+		"genero": "Alsodes",
+		"especie": "Alsodes monticola",
+		"nombre_vulgar": false,
+		"endemismo": true,
+		"estado_consevacion": "Datos Insuficientos"
+	},
+	{
+		"cledo": "Cycloramphidae",
+		"grupo": "Alsodinae",
+		"genero": "Alsodes",
+		"especie": "Alsodes nodosus",
+		"nombre_vulgar": "Sapo arriero",
+		"endemismo": true,
+		"estado_consevacion": "Próximo a la Amenaza"
+	},
+	{
+		"cledo": "Cycloramphidae",
+		"grupo": "Alsodinae",
+		"genero": "Alsodes",
+		"especie": "Alsodes tumultuosus",
+		"nombre_vulgar": false,
+		"endemismo": true,
+		"estado_consevacion": "En Peligro Crítico"
+	},
+	{
+		"cledo": "Cycloramphidae",
+		"grupo": "Alsodinae",
+		"genero": "Alsodes",
+		"especie": "Alsodes valdiviensis",
+		"nombre_vulgar": false,
+		"endemismo": true,
+		"estado_consevacion": "Datos Insuficientos"
+	},
+	{
+		"cledo": "Cycloramphidae",
+		"grupo": "Alsodinae",
+		"genero": "Alsodes",
+		"especie": "Alsodes vanzolinii",
+		"nombre_vulgar": false,
+		"endemismo": true,
+		"estado_consevacion": "En Peligro Crítico"
+	},
+	{
+		"cledo": "Cycloramphidae",
+		"grupo": "Alsodinae",
+		"genero": "Alsodes",
+		"especie": "Alsodes verrucosus",
+		"nombre_vulgar": false,
+		"endemismo": false,
+		"estado_consevacion": "Datos Insuficientos"
+	},
+	{
+		"cledo": "Cycloramphidae",
+		"grupo": "Alsodinae",
+		"genero": "Alsodes",
+		"especie": "Alsodes vittatus",
+		"nombre_vulgar": false,
+		"endemismo": true,
+		"estado_consevacion": "Datos Insuficientos"
+	},
+	{
+		"cledo": "Cycloramphidae",
+		"grupo": "Alsodinae",
+		"genero": "Eupsophus",
+		"especie": "Eupsophus calcaratus",
+		"nombre_vulgar": false,
+		"endemismo": false,
+		"estado_consevacion": "Preocupación Menor"
+	},
+	{
+		"cledo": "Cycloramphidae",
+		"grupo": "Alsodinae",
+		"genero": "Eupsophus",
+		"especie": "Eupsophus contulmoensis",
+		"nombre_vulgar": false,
+		"endemismo": true,
+		"estado_consevacion": "En Peligro"
+	},
+	{
+		"cledo": "Cycloramphidae",
+		"grupo": "Alsodinae",
+		"genero": "Eupsophus",
+		"especie": "Eupsophus emiliopugini",
+		"nombre_vulgar": false,
+		"endemismo": false,
+		"estado_consevacion": "Preocupación Menor"
+	},
+	{
+		"cledo": "Cycloramphidae",
+		"grupo": "Alsodinae",
+		"genero": "Eupsophus",
+		"especie": "Eupsophus insularis",
+		"nombre_vulgar": false,
+		"endemismo": true,
+		"estado_consevacion": "En Peligro Crítico"
+	},
+	{
+		"cledo": "Cycloramphidae",
+		"grupo": "Alsodinae",
+		"genero": "Eupsophus",
+		"especie": "Eupsophus migueli",
+		"nombre_vulgar": "Sapo Miguel" ,
+		"endemismo": true,
+		"estado_consevacion": "En Peligro"
 	}
 ]
