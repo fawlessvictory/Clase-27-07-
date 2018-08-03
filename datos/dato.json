@@ -291,7 +291,7 @@
 		"grupo": "Alsodinae",
 		"genero": "Alsodes",
 		"especie": "Alsodes montanus",
-		"nombre_vulgar": false,
+		"nombre_vulgar": "Sapo de monte",
 		"endemismo": true,
 		"estado_consevacion": "En Peligro Crítico"
 	},
@@ -318,7 +318,7 @@
 		"grupo": "Alsodinae",
 		"genero": "Alsodes",
 		"especie": "Alsodes tumultuosus",
-		"nombre_vulgar": false,
+		"nombre_vulgar": "Sapo de pecho espinoso de la Parva",
 		"endemismo": true,
 		"estado_consevacion": "En Peligro Crítico"
 	},
@@ -327,7 +327,7 @@
 		"grupo": "Alsodinae",
 		"genero": "Alsodes",
 		"especie": "Alsodes valdiviensis",
-		"nombre_vulgar": false,
+		"nombre_vulgar": "Sapo de pecho espinoso de Cordillera",
 		"endemismo": true,
 		"estado_consevacion": "Datos Insuficientos"
 	},
@@ -336,7 +336,7 @@
 		"grupo": "Alsodinae",
 		"genero": "Alsodes",
 		"especie": "Alsodes vanzolinii",
-		"nombre_vulgar": false,
+		"nombre_vulgar": "Sapo de pecho espinoso de Vanzolini",
 		"endemismo": true,
 		"estado_consevacion": "En Peligro Crítico"
 	},
@@ -345,7 +345,7 @@
 		"grupo": "Alsodinae",
 		"genero": "Alsodes",
 		"especie": "Alsodes verrucosus",
-		"nombre_vulgar": false,
+		"nombre_vulgar": "Sapo de pecho espinoso con verrugas",
 		"endemismo": false,
 		"estado_consevacion": "Datos Insuficientos"
 	},
@@ -354,7 +354,7 @@
 		"grupo": "Alsodinae",
 		"genero": "Alsodes",
 		"especie": "Alsodes vittatus",
-		"nombre_vulgar": false,
+		"nombre_vulgar": "Sapo de pecho espinoso de Malleco",
 		"endemismo": true,
 		"estado_consevacion": "Datos Insuficientos"
 	},
@@ -372,7 +372,7 @@
 		"grupo": "Alsodinae",
 		"genero": "Eupsophus",
 		"especie": "Eupsophus contulmoensis",
-		"nombre_vulgar": false,
+		"nombre_vulgar": "Sapo de Contulmo",
 		"endemismo": true,
 		"estado_consevacion": "En Peligro"
 	},
@@ -381,7 +381,7 @@
 		"grupo": "Alsodinae",
 		"genero": "Eupsophus",
 		"especie": "Eupsophus emiliopugini",
-		"nombre_vulgar": false,
+		"nombre_vulgar": "Rana de hojarasca de párpados verdes",
 		"endemismo": false,
 		"estado_consevacion": "Preocupación Menor"
 	},
@@ -390,7 +390,7 @@
 		"grupo": "Alsodinae",
 		"genero": "Eupsophus",
 		"especie": "Eupsophus insularis",
-		"nombre_vulgar": false,
+		"nombre_vulgar": "Sapo de Isla Mocha",
 		"endemismo": true,
 		"estado_consevacion": "En Peligro Crítico"
 	},
@@ -408,7 +408,7 @@
 		"grupo": "Alsodinae",
 		"genero": "Eupsophus",
 		"especie": "Eupsophus nahuelbutensis",
-		"nombre_vulgar": false ,
+		"nombre_vulgar": "Sapo de Nabuelbuta",
 		"endemismo": true,
 		"estado_consevacion": "En Peligro"
 	},
@@ -435,7 +435,7 @@
 		"grupo": "Alsodinae",
 		"genero": "Eupsophus",
 		"especie": "Eupsophus septentrionalis",
-		"nombre_vulgar": false ,
+		"nombre_vulgar": "Ranita de los Queles",
 		"endemismo": true,
 		"estado_consevacion": "Datos Insuficientos"
 	},
@@ -480,7 +480,7 @@
 		"grupo": "Cycloramphinae",
 		"genero": "Rhinoderma",
 		"especie": "Rhinoderma rufum",
-		"nombre_vulgar": "Ranita Chilena de Darwin" ,
+		"nombre_vulgar": "Sapito vaquero" ,
 		"endemismo": true,
 		"estado_consevacion": "En Peligro Crítico"
 	},
@@ -498,7 +498,7 @@
 		"grupo": "Leiuperidae",
 		"genero": "Pleurodema",
 		"especie": "Pleurodema marmoratum",
-		"nombre_vulgar": false,
+		"nombre_vulgar": "Sapito de cuatro ojos marmóreo",
 		"endemismo": false,
 		"estado_consevacion": "Preocupación Menor"
 	},
