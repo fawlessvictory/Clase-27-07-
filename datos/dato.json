@@ -66,7 +66,7 @@
 		"grupo": "Calyptocephalellidae",
 		"genero": "Telmatobufo",
 		"especie": "Telmatobufo bullocki",
-		"nombre_vulgar": false,
+		"nombre_vulgar": "Sapo de Bullock",
 		"endemismo": true,
 		"estado_consevacion": "En Peligro Crítico"
 	},
@@ -75,7 +75,7 @@
 		"grupo": "Calyptocephalellidae",
 		"genero": "Telmatobufo",
 		"especie": "Telmatobufo venustus",
-		"nombre_vulgar": false,
+		"nombre_vulgar": "Sapo Hermoso",
 		"endemismo": true,
 		"estado_consevacion": "En Peligro"
 	},
@@ -93,7 +93,7 @@
 		"grupo": "Batrachyla",
 		"genero": "Atelognathus",
 		"especie": "Atelognathus jeinimenensis",
-		"nombre_vulgar": false,
+		"nombre_vulgar": "Rana de Jeinimeni",
 		"endemismo": false,
 		"estado_consevacion": "Próximo a la Amenaza"
 	},
@@ -111,7 +111,7 @@
 		"grupo": "Batrachyla",
 		"genero": "Batrachyla",
 		"especie": "Batrachyla antartandica",
-		"nombre_vulgar": false,
+		"nombre_vulgar": "Rana Jaspeada",
 		"endemismo": false,
 		"estado_consevacion": "Preocupación Menor"
 	},
@@ -120,7 +120,7 @@
 		"grupo": "Batrachyla",
 		"genero": "Batrachyla",
 		"especie": "Batrachyla leptopus",
-		"nombre_vulgar": false,
+		"nombre_vulgar": "Rana moteada",
 		"endemismo": false,
 		"estado_consevacion": "Preocupación Menor"
 	},
@@ -129,7 +129,7 @@
 		"grupo": "Batrachyla",
 		"genero": "Batrachyla",
 		"especie": "Batrachyla nibaldoi",
-		"nombre_vulgar": false,
+		"nombre_vulgar": "Rana de antifas de Bahia Muerta",
 		"endemismo": true,
 		"estado_consevacion": "Datos Insuficientos"
 	},
@@ -156,7 +156,7 @@
 		"grupo": "Telmatobiinae",
 		"genero": "Telmatobius",
 		"especie": "Telmatobius dankoi",
-		"nombre_vulgar": false,
+		"nombre_vulgar": "Sapo de Danko",
 		"endemismo": true,
 		"estado_consevacion": "Datos Insuficientos"
 	},
@@ -165,7 +165,7 @@
 		"grupo": "Telmatobiinae",
 		"genero": "Telmatobius",
 		"especie": "Telmatobius fronterensis",
-		"nombre_vulgar": false,
+		"nombre_vulgar": "Sapo de la Frontera",
 		"endemismo": true,
 		"estado_consevacion": "Datos Insuficientos"
 	},
@@ -174,7 +174,7 @@
 		"grupo": "Telmatobiinae",
 		"genero": "Telmatobius",
 		"especie": "Telmatobius halli",
-		"nombre_vulgar": false,
+		"nombre_vulgar": "Sapo de Hall",
 		"endemismo": true,
 		"estado_consevacion": "Datos Insuficientos"
 	},
@@ -192,7 +192,7 @@
 		"grupo": "Telmatobiinae",
 		"genero": "Telmatobius",
 		"especie": "Telmatobius pefauri",
-		"nombre_vulgar": false,
+		"nombre_vulgar": "Sapo de Pefauri",
 		"endemismo": true,
 		"estado_consevacion": "En Peligro Crítico"
 	},
@@ -201,7 +201,7 @@
 		"grupo": "Telmatobiinae",
 		"genero": "Telmatobius",
 		"especie": "Telmatobius peruvianus",
-		"nombre_vulgar": false,
+		"nombre_vulgar": "Sapo Peruano",
 		"endemismo": false,
 		"estado_consevacion": "Vulnerable"
 	},
@@ -210,7 +210,7 @@
 		"grupo": "Telmatobiinae",
 		"genero": "Telmatobius",
 		"especie": "Telmatobius philippii",
-		"nombre_vulgar": false,
+		"nombre_vulgar": "Sapo de Philippii",
 		"endemismo": true,
 		"estado_consevacion": "Datos Insuficientos"
 	},
@@ -219,7 +219,7 @@
 		"grupo": "Telmatobiinae",
 		"genero": "Telmatobius",
 		"especie": "Telmatobius vilamensis",
-		"nombre_vulgar": false,
+		"nombre_vulgar": "Sapo de Vilama",
 		"endemismo": true,
 		"estado_consevacion": "Datos Insuficientos"
 	},
@@ -228,7 +228,7 @@
 		"grupo": "Telmatobiinae",
 		"genero": "Telmatobius",
 		"especie": "Telmatobius zapahuirensis",
-		"nombre_vulgar": false,
+		"nombre_vulgar": "Sapo de Zapahuira",
 		"endemismo": true,
 		"estado_consevacion": "En Peligro Crítico"
 	},
@@ -237,7 +237,7 @@
 		"grupo": "Alsodinae",
 		"genero": "Alsodes",
 		"especie": "Alsodes australis",
-		"nombre_vulgar": false,
+		"nombre_vulgar": "Sapo espinudo audtral
 		"endemismo": false,
 		"estado_consevacion": "Datos Insuficientes"
 	},
@@ -246,7 +246,7 @@
 		"grupo": "Alsodinae",
 		"genero": "Alsodes",
 		"especie": "Alsodes barrioi",
-		"nombre_vulgar": false,
+		"nombre_vulgar": "Sapo de pecho espinoso de Barrio",
 		"endemismo": true,
 		"estado_consevacion": "Vulnerable"
 	},
@@ -255,7 +255,7 @@
 		"grupo": "Alsodinae",
 		"genero": "Alsodes",
 		"especie": "Alsodes hugoi",
-		"nombre_vulgar": false,
+		"nombre_vulgar": "Sapo de Hugo",
 		"endemismo": true,
 		"estado_consevacion": "Datos Insuficientos"
 	},
@@ -264,7 +264,7 @@
 		"grupo": "Alsodinae",
 		"genero": "Alsodes",
 		"especie": "Alsodes igneus",
-		"nombre_vulgar": false,
+		"nombre_vulgar": "Sapo de pecho espinoso de Tolhuaca",
 		"endemismo": true,
 		"estado_consevacion": "Datos Insuficientos"
 	},
@@ -273,7 +273,7 @@
 		"grupo": "Alsodinae",
 		"genero": "Alsodes",
 		"especie": "Alsodes kaweshkari",
-		"nombre_vulgar": false,
+		"nombre_vulgar": "Rana kaweshkar de pecho espinoso",
 		"endemismo": true,
 		"estado_consevacion": "Datos Insuficientos"
 	},
