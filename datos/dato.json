@@ -402,5 +402,113 @@
 		"nombre_vulgar": "Sapo Miguel" ,
 		"endemismo": true,
 		"estado_consevacion": "En Peligro"
+	},
+	{
+		"cledo": "Cycloramphidae",
+		"grupo": "Alsodinae",
+		"genero": "Eupsophus",
+		"especie": "Eupsophus nahuelbutensis",
+		"nombre_vulgar": false ,
+		"endemismo": true,
+		"estado_consevacion": "En Peligro"
+	},
+	{
+		"cledo": "Cycloramphidae",
+		"grupo": "Alsodinae",
+		"genero": "Eupsophus",
+		"especie": "Eupsophus queulensis",
+		"nombre_vulgar": false ,
+		"endemismo": true,
+		"estado_consevacion": "Vulnerable"
+	},
+	{
+		"cledo": "Cycloramphidae",
+		"grupo": "Alsodinae",
+		"genero": "Eupsophus",
+		"especie": "Eupsophus roseus",
+		"nombre_vulgar": false ,
+		"endemismo": true,
+		"estado_consevacion": "Próximo a la Amenaza"
+	},
+	{
+		"cledo": "Cycloramphidae",
+		"grupo": "Alsodinae",
+		"genero": "Eupsophus",
+		"especie": "Eupsophus septentrionalis",
+		"nombre_vulgar": false ,
+		"endemismo": true,
+		"estado_consevacion": "Datos Insuficientos"
+	},
+	{
+		"cledo": "Cycloramphidae",
+		"grupo": "Alsodinae",
+		"genero": "Eupsophus",
+		"especie": "Eupsophus vertebralis",
+		"nombre_vulgar": false ,
+		"endemismo": false,
+		"estado_consevacion": "Próximo a la Amenaza"
+	},
+	{
+		"cledo": "Cycloramphidae",
+		"grupo": "Alsodinae",
+		"genero": "Hylorina",
+		"especie": "Hylorina sylvatica",
+		"nombre_vulgar": "Sapito selvático" ,
+		"endemismo": false,
+		"estado_consevacion": "Preocupación Menor"
+	},
+	{
+		"cledo": "Cycloramphidae",
+		"grupo": "Alsodinae",
+		"genero": "Insuetophrynus",
+		"especie": "Insuetophrynus acarpicus",
+		"nombre_vulgar": "Sapo de Mehuín" ,
+		"endemismo": true,
+		"estado_consevacion": "En Peligro Crítico"
+	},
+	{
+		"cledo": "Cycloramphidae",
+		"grupo": "Cycloramphinae",
+		"genero": "Rhinoderma",
+		"especie": "Rhinoderma darwinii",
+		"nombre_vulgar": "Ranita de Darwin" ,
+		"endemismo": false,
+		"estado_consevacion": "Vulnerable"
+	},
+	{
+		"cledo": "Cycloramphidae",
+		"grupo": "Cycloramphinae",
+		"genero": "Rhinoderma",
+		"especie": "Rhinoderma rufum",
+		"nombre_vulgar": "Ranita Chilena de Darwin" ,
+		"endemismo": true,
+		"estado_consevacion": "En Peligro Crítico"
+	},
+	{
+		"cledo": "Leiuperidae",
+		"grupo": "Leiuperidae",
+		"genero": "Pleurodema",
+		"especie": "Pleurodema bufoninum",
+		"nombre_vulgar": "Sapo de cuatro ojos grandes" ,
+		"endemismo": false,
+		"estado_consevacion": "Preocupación Menor"
+	},
+	{
+		"cledo": "Leiuperidae",
+		"grupo": "Leiuperidae",
+		"genero": "Pleurodema",
+		"especie": "Pleurodema marmoratum",
+		"nombre_vulgar": false,
+		"endemismo": false,
+		"estado_consevacion": "Preocupación Menor"
+	},
+	{
+		"cledo": "Leiuperidae",
+		"grupo": "Leiuperidae",
+		"genero": "Pleurodema",
+		"especie": "Pleurodema thaul",
+		"nombre_vulgar": "Sapito de cuatro ojos",
+		"endemismo": false,
+		"estado_consevacion": "Preocupación Menor"
 	}
 ]
