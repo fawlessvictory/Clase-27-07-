@@ -453,7 +453,7 @@
 		"grupo": "Alsodinae",
 		"genero": "Hylorina",
 		"especie": "Hylorina sylvatica",
-		"nombre_vulgar": "Sapito selvático" ,
+		"nombre_vulgar": "Sapito selvático",
 		"endemismo": false,
 		"estado_consevacion": "Preocupación Menor"
 	},
@@ -471,7 +471,7 @@
 		"grupo": "Cycloramphinae",
 		"genero": "Rhinoderma",
 		"especie": "Rhinoderma darwinii",
-		"nombre_vulgar": "Ranita de Darwin" ,
+		"nombre_vulgar": "Ranita de Darwin",
 		"endemismo": false,
 		"estado_consevacion": "Vulnerable"
 	},
@@ -480,7 +480,7 @@
 		"grupo": "Cycloramphinae",
 		"genero": "Rhinoderma",
 		"especie": "Rhinoderma rufum",
-		"nombre_vulgar": "Sapito vaquero" ,
+		"nombre_vulgar": "Sapito vaquero",
 		"endemismo": true,
 		"estado_consevacion": "En Peligro Crítico"
 	},
@@ -489,7 +489,7 @@
 		"grupo": "Leiuperidae",
 		"genero": "Pleurodema",
 		"especie": "Pleurodema bufoninum",
-		"nombre_vulgar": "Sapo de cuatro ojos grandes" ,
+		"nombre_vulgar": "Sapo de cuatro ojos grandes",
 		"endemismo": false,
 		"estado_consevacion": "Preocupación Menor"
 	},
